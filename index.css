@@ -14,13 +14,13 @@ body {
 
 .card {
     background-color: white;
-    margin: 50px auto;
+    margin:200px auto;
     width: 335px;
     border-radius: 20px;
     justify-content: center;
 }
 
-h2 {
+h1 {
     color: hsl(218, 44%, 22%);
     margin-block-start: 0;
 }
